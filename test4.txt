@@ -1,1 +1,3 @@
+I have added first line.
+I have added second line.
 This is my four text file.
